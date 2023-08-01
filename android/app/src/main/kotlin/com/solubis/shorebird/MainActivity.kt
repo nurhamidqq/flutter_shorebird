@@ -1,4 +1,4 @@
-package com.example.flutter_shorebird
+package com.solubis.shorebird
 
 import io.flutter.embedding.android.FlutterActivity
 
